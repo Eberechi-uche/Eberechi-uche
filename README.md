@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eberechi-uche
+- 👋 Hi, I’m @Richard-uche
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend web development
 
