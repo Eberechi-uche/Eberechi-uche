@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richard-uche
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web development
+
 - Each project here Emanates from trying to understand concept at an in-depth level hence I try to build project around each concept, also as a means to documents my journey, and thought process. 
 
 <!---
